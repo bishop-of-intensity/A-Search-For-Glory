@@ -156,13 +156,23 @@ body {
   font-family: 'Metal Mania', cursive;
 }
 
+.searching-fo-1 {
+  margin-bottom: 5rem;
+}
+
 .searching-fo-wrapper {
   padding: 1.6rem 3rem 2rem 3rem;
   border-radius: 2rem;
-  /* background-color: rgb(58 58 58); */
-  background-color: rgb(57 4 4); 
   background-color: rgb(86 27 22);
   border: 2px solid #faef0f;
+}
+
+.searching-fo-wrapper-2 {
+  padding: 1.6rem 3rem 2rem 3rem;
+  border-radius: 2rem;
+  background-color: rgb(86 22 78);
+  border: 2px solid #faef0f;
+  color: white;
 }
 
 .just-an-extra-being-wrapper {
